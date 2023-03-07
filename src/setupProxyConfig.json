@@ -1,0 +1,7 @@
+[
+    {
+        "name": "测试环境",
+        "baseUrl": "/api",
+        "target": "https://lanbin1017.gitee.io/ahooks"
+    }
+]
